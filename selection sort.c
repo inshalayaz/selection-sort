@@ -34,5 +34,5 @@ void main(){
     selectionSort(arr,end);
     for(int i = 0; i < end; i++){
     printf("%d\t", arr[i]);
-}
+    }
 }
